@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhakshnamoorthy Murugesan</h1>
-<h3 align="center">DevOps Engineer - Break the pipelines since 2019</h3>
+<h3 align="center">DevOps Engineer - Breaking the pipelines since 2019</h3>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
